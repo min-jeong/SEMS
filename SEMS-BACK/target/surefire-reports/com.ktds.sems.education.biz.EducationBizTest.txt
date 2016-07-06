@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ktds.sems.education.biz.EducationBizTest
+-------------------------------------------------------------------------------
+Tests run: 56, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.055 sec
